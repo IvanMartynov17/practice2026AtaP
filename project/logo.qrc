@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1/logo">
+        <file>Gemini_Generated_Image_nlog6vnlog6vnlog__1_-removebg-preview.png</file>
+    </qresource>
+</RCC>
